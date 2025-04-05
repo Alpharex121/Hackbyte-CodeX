@@ -1,0 +1,63 @@
+{
+    "issues": [
+      {
+        "id": 1,
+        "type": "Pothole",
+        "category": "Road Issues",
+        "location": "Main Street, Near Central Park",
+        "description": "Large pothole causing traffic issues.",
+        "status": "Open",
+        "urgency": "High",
+        "date": "2025-03-20",
+        "upvotes": 12,
+        "reporter": "Anonymous",
+        "pincode": "123456"
+      },
+      {
+        "id": 2,
+        "type": "Garbage Overflow",
+        "category": "Waste Management",
+        "location": "Elm Avenue, Block C",
+        "description": "Overflowing bins near the residential area.",
+        "status": "In Progress",
+        "urgency": "Medium",
+        "date": "2025-03-22",
+        "upvotes": 8,
+        "reporter": "Anonymous",
+        "pincode": "654321"
+      },
+      {
+        "id": 3,
+        "type": "Street Light Outage",
+        "category": "Public Utilities",
+        "location": "Oak Road, Sector 5",
+        "description": "Street light not working for over a week.",
+        "status": "Resolved",
+        "urgency": "Low",
+        "date": "2025-03-15",
+        "upvotes": 15,
+        "reporter": "Anonymous",
+        "pincode": "789123"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Road Issues",
+        "description": "Report potholes, cracks, or road blockages.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/3393/3393428.png"
+      },
+      {
+        "id": 2,
+        "name": "Waste Management",
+        "description": "Report garbage overflow or illegal dumping.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2750/2750988.png"
+      },
+      {
+        "id": 3,
+        "name": "Public Utilities",
+        "description": "Report issues with streetlights or water supply.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/17622/17622063.png"
+      }
+    ]
+  }
